@@ -1,2 +1,2 @@
 # solutionsPracticePython
-Solutions to the exercises on Practice Python
+This repository contains my solutions to the exercises from Practice Python (https://www.practicepython.org/).
